@@ -1412,8 +1412,8 @@ console.log("Match OTP 970")
 			// let secret_key = "oKv8GlgyeMMo0VzXwd3H0X7g";
             
             let gateway_name = "stripe";
-            let private_key = "pk_live_51Jfi9USCDdW0qyGauggBF1hxK9fFWVwwTCaRzQLLXzpSd8lypviGKV1LAE3HIMb8ec0RQHAa1VJqiCTH3HveKOOo00y35qXThH"; /// stripe
-            let secret_key = "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"; ///stripe
+            let private_key = "pk_live_"; /// stripe
+            let secret_key = "sk_live_"; ///stripe
 			let qr_code = "https://kittyclub.in/uploads/qr_code.png";
         	let upi_id = "8950528203@ybl";
 			let payment_link=["link1","link1","link1","link1","link1"];
